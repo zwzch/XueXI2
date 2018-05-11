@@ -1,0 +1,13 @@
+<log4c>
+    <log>
+        <log_path>/home/zw/ClionProjects/XueXI2/test/</log_path>
+    </log>
+    <!--设置优先级别-->
+    <rootLogger>
+        <priority>INFO</priority>
+        <stdout>true</stdout>
+        <file>true</file>
+    </rootLogger>
+    <appender name="nomalLog" type="file" time="true">
+    </appender>
+</log4c>

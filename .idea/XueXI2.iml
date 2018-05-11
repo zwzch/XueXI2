@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Log4C.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ZwSh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tinyxml.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tinystr.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJoffer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/seqtest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NioTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/demo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inode1.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tinyxml.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SequenceDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boosttest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/socket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/process" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sockettest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thread.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LogUtil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStruct" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tomcat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tinystr.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tinyxmlparser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/io.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tinyxmlerror.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/user/java/jdk1.7.0_80/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/user/java/jdk1.7.0_80/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

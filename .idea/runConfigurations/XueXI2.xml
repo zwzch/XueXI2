@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="XueXI2" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="XueXI2" TARGET_NAME="XueXI2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="XueXI2" RUN_TARGET_NAME="XueXI2">
+    <envs />
+    <method>
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Build All" run_configuration_type="CMakeRunConfiguration" />
+    </method>
+  </configuration>
+</component>
